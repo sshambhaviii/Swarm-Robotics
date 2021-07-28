@@ -1,0 +1,1 @@
+This algorithm imcreased efficiency by increasing the range of sensors such that instead of scanning the currently occupied cell, the bot can scan the 3*3 grid around itself.<br> This helped us in reducing the total number of cells visited as well as increasing the speed of the search as each cell need not be visited to find a goal.
